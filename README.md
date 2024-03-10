@@ -13,3 +13,6 @@ https://ythls-v2.onrender.com/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/ZqxzrmdT/images-6.jpg" group-title="Youtube Live", Ntv Youtube Live
 https://ythls-v2.onrender.com/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+
+#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/c4G7ztk4/images-7.jpg" group-title="Youtube Live", Channel I News Youtube Live
+https://ythls-v2.onrender.com/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
