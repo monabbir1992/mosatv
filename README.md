@@ -16,3 +16,6 @@ https://ythls-v2.onrender.com/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/c4G7ztk4/images-7.jpg" group-title="Youtube Live", Channel I News Youtube Live
 https://ythls-v2.onrender.com/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
+
+#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/5yLrVdMH/images-8.jpg" group-title="Local Host", Colora Bangla Local
+https://bongodrive.pw/bioscope.m3u8?id=colors-bangla
