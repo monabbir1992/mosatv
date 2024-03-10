@@ -26,3 +26,33 @@ https://bongodrive.pw/bioscope.m3u8?id=colors-bangla
 
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/HsZ5mfCQ/images-1.png" group-title="Youtube Live", Dbc News Youtube Live
 https://ythls-v2.onrender.com/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AfY8NAf.jpg" group-title="FM REDIO", Quran
+https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AfY8NAf.jpg" group-title="FM REDIO", Bangladesh Betar
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+#EXTINF: -1 tvg-logo="https://i.imgur.com/16uHVGr.png" group-title="FM REDIO", Redio Shadin
+http://stream-157.zeno.fm/umq9q5uuva5tv?zs=RZTxFKUnRZeT5gVmKwDoCA
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NSzeePe.png" group-title="FM REDIO", Redio Today
+http://stream-144.zeno.fm/8wv4d8g4344tv?zs=OM6q0RfuRDi1X6Tty62qhA
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oWpQCYD.png" group-title="FM REDIO", Redio Ekattor
+http://192.144.82.200:9302/;stream/1;
+#EXTINF: -1 tvg-logo="https://i.imgur.com/sUtIV0g.png" group-title="FM REDIO", Redio Sarabela
+http://103.4.145.50:8000/stream/1/
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gi3zr40.png" group-title="FM REDIO", Redio Padma
+http://cassini.shoutca.st:9109/radiopadma.mp3
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rmd6v7M.png" group-title="FM REDIO", Sayaji FM
+https://sayajifm.radioca.st/stream/;?1707488287650
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Ca6gh7i.png" group-title="FM REDIO", Radio BongOnet
+https://stream.bongonet.net/proxy/radiobongonet?mp=/stream/1/
+#EXTINF: -1 tvg-logo="https://i.imgur.com/d09PXR5.jpg" group-title="FM REDIO", Radio Retro Bollywood
+https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
+#EXTINF: -1 tvg-logo="https://i.imgur.com/UScHwWO.jpg" group-title="FM REDIO", Radio Bolly FM
+https://stream-160.zeno.fm/zu59ykebs2zuv?zs=TJdihQC0Q8CabTsCGBWA4A
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MihH9i8.png" group-title="FM REDIO", Radio Mahananda
+https://radiomahanandafm.radioca.st/rm.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/KYsbMdQp/BBC-Bangla-logo-svg.png" group-title="FM REDIO", BBC BANGLA/UK/ENGLISH
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FHjHd74z/download-11.png" group-title="FM REDIO", DHAKA FM
+https://stream-162.zeno.fm/ay4pqkk604zuv?zs=uxE5poqeQiiHORwP1eBreQ
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/ydHQDxdH/images-1-5.png" group-title="FM REDIO", radio foorti
+https://stream-152.zeno.fm/cwa3vg8s8druv?zs=Gn24iHyWT3Omxri1VtA3oQ
