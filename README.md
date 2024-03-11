@@ -58,7 +58,7 @@ http://192.144.82.200:9302/;stream/1;
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/s2W0qFbb/images-2.png" group-title="FM REDIO", Redio Sarabela রেডিও সারাবেলা
 http://103.4.145.50:8000/stream/1/
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gi3zr40.png" group-title="FM REDIO", Redio Padma রেডিও পদ্না
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/02Y8D3t5/images-3.png" group-title="FM REDIO", Redio Padma রেডিও পদ্না
 http://cassini.shoutca.st:9109/radiopadma.mp3
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rmd6v7M.png" group-title="FM REDIO", Sayaji FM
