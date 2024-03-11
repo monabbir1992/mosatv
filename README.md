@@ -76,7 +76,7 @@ https://stream.bongonet.net/proxy/radiobongonet?mp=/stream/1/
 https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Kz2wGNgq/images-2.png" group-title="এফ এম রেডিও", Radio Bolly FM
 https://stream-160.zeno.fm/zu59ykebs2zuv?zs=TJdihQC0Q8CabTsCGBWA4A
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MihH9i8.png" group-title="এফ এম রেডিও", Radio Mahananda
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/XJxgFcpY/images-3.png" group-title="এফ এম রেডিও", Radio Mahananda
 https://radiomahanandafm.radioca.st/rm.mp3
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/KYsbMdQp/BBC-Bangla-logo-svg.png" group-title="এফ এম রেডিও", BBC BANGLA/UK/ENGLISH
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
