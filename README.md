@@ -4,6 +4,10 @@
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/MTXkqg7z/images-12.jpg" group-title="Intro", Monabbir1
 https://streamable.com/hu06k2
 
+
+#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/tCyTFQxB/image.jpg" group-title="Intro", Monabbir33
+http://103.152.101.176:8080/live/8921/8921/124006.ts?token=TxNaVBVQEQgQCQdUBgMFUgNUBAVSV1EEU1UDUl1WU1QBBwIFVlsHUwQTGRNCEUUBVF85WgJBD1BWBAQBUhsQREdUQGoPXBEIEAQEBgdXFUgXRg9eA0EPUFMBBABXBAEJBR0QRQ9cEQgQAAMHAkcbRlBKElYUDVQNO1RRRw1UVxMOX0dZChQRXVxuUVRcBFkAFwhEA0RPFwgXQBYLCkJeXRgTUFwSSlJGVxMPEwhcAVcXHkRQCRZbFRZJFgsKQl5dGBNXTRJdXUFbXlsTC0dDFxceRFoVPEcEF0RGVAVaV0MWCxAFRBQRX1NJalJeC1kBVkYPXAgQF1tGARYdRlpdX11FXUc5SFpWEAsXAwVcBkZI
+
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/tCyTFQxB/image.jpg" group-title="Intro", Monabbir
 https://streamable.com/hu06k2
 
