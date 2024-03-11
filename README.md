@@ -2,7 +2,7 @@
 #EXTINF: -1 tvg-name="Ararat (2024)  S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTFhzrmY2mxc3F9PEtwJy2w8rKs.jpg" group-title="BANGALI", Ararat (2024)  S01 E01
 http://xtv.ooo:8080/series/T4S00515/820172/375191.mkv
 
-#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/d0TdVqLV/images-9.jpg" group-title="Monabbir", Ekattor Tv
+#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/d0TdVqLV/images-9.jpg" group-title="Youtube Live", Ekattor Tv
 https://ythls-v2.onrender.com/channel/UCtqvtAVmad5zywaziN6CbfA.M3u8
 
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/Y2G5djFB/images-3.jpg" group-title="Youtube Live", Somay Tv Youtube Live
