@@ -89,7 +89,7 @@ https://stream-152.zeno.fm/cwa3vg8s8druv?zs=Gn24iHyWT3Omxri1VtA3oQ
 এখানে শেষ
 
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/B64j28yh/images-16.jpg" group-title="Intro", স্টার জলসা
-https://s.id/23TAS
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 
 
 আল-কুরআন শুরু এখান থেকে
