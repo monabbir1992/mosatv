@@ -34,22 +34,22 @@ https://ythls-v2.onrender.com/channel/UCtqvtAVmad5zywaziN6CbfA.M3u8
 https://ythls-v2.onrender.com/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
 হিন্দি মুভি চ্যানেল
 
-#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/SjF7ygL5/images-11.jpg" group-title="Movie Channel", Zee Tv cinema
+#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/SjF7ygL5/images-11.jpg" group-title="Movie Channel", Zee Tv cinema জি সিনেমা
 http://103.151.60.214:7444/1611/video.m3u8
 
-#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/5yLrVdMH/images-8.jpg" group-title="Local Host", ColorS Bangla
+#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/5yLrVdMH/images-8.jpg" group-title="Local Host", ColorS Bangla কালারস বাংলা
 https://bongodrive.pw/bioscope.m3u8?id=colors-bangla
 
 রেডিও শুরু এখান থেকে
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/3JYgShSX/images-10.jpg" group-title="FM REDIO", Quran
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3JYgShSX/images-10.jpg" group-title="FM REDIO", Quran কুরআন
 https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/htpLLd5w/image.jpg" group-title="FM REDIO", Bangladesh Betar
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/htpLLd5w/image.jpg" group-title="FM REDIO", Bangladesh Betar বাংলাদেশ বেতার
 http://as3.digitalsynapsebd.com:8263/;stream.mp3
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/T3w9H0gG/image.png" group-title="FM REDIO", Redio Shadin
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/T3w9H0gG/image.png" group-title="FM REDIO", Redio Shadin রেডিও স্বাধীন
 http://stream-157.zeno.fm/umq9q5uuva5tv?zs=RZTxFKUnRZeT5gVmKwDoCA
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/m2zy09Dc/images-14.jpg" group-title="FM REDIO", Redio Today
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/m2zy09Dc/images-14.jpg" group-title="FM REDIO", Redio Today রেডিও টুডে
 http://stream-144.zeno.fm/8wv4d8g4344tv?zs=OM6q0RfuRDi1X6Tty62qhA
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DfXVnBxF/images-15.jpg" group-title="FM REDIO", Redio Ekattor রেডিও ৭১
