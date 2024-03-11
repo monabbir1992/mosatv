@@ -1,7 +1,7 @@
 #EXTM3U 
 ইউটিউব লাইভ টিভি
 
-#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/MTXkqg7z/images-12.jpg" group-title="Intro", Monabbir
+#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/MTXkqg7z/images-12.jpg" group-title="Intro", Monabbir1
 https://streamable.com/hu06k2
 
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/tCyTFQxB/image.jpg" group-title="Intro", Monabbir
