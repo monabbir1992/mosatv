@@ -1,6 +1,9 @@
 #EXTM3U 
 ইউটিউব লাইভ টিভি
 
+#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/R0TzKZ2d/SONY-Sports-Ten1-HD.png" group-title="খেলার চ্যানেল", sony স্পোর্টস ১
+https://s.id/23TBJ
+
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/MTXkqg7z/images-12.jpg" group-title="Intro", Monabbir1
 https://streamable.com/hu06k2
 
