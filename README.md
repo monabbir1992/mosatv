@@ -81,3 +81,7 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 https://stream-162.zeno.fm/ay4pqkk604zuv?zs=uxE5poqeQiiHORwP1eBreQ
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/ydHQDxdH/images-1-5.png" group-title="FM REDIO", radio foorti
 https://stream-152.zeno.fm/cwa3vg8s8druv?zs=Gn24iHyWT3Omxri1VtA3oQ
+
+
+#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/B64j28yh/images-16.jpg" group-title="Intro", স্টার জলসা
+https://s.id/23TAk
