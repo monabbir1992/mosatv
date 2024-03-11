@@ -30,7 +30,7 @@ https://ythls-v2.onrender.com/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
 https://bongodrive.pw/bioscope.m3u8?id=colors-bangla
 
 রেডিও শুরু এখান থেকে
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AfY8NAf.jpg" group-title="FM REDIO", Quran
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3JYgShSX/images-10.jpg" group-title="FM REDIO", Quran
 https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AfY8NAf.jpg" group-title="FM REDIO", Bangladesh Betar
 http://as3.digitalsynapsebd.com:8263/;stream.mp3
