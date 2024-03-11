@@ -35,8 +35,9 @@ https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/htpLLd5w/image.jpg" group-title="FM REDIO", Bangladesh Betar
 http://as3.digitalsynapsebd.com:8263/;stream.mp3
-#EXTINF: -1 tvg-logo="https://i.imgur.com/16uHVGr.png" group-title="FM REDIO", Redio Shadin
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/T3w9H0gG/image.png" group-title="FM REDIO", Redio Shadin
 http://stream-157.zeno.fm/umq9q5uuva5tv?zs=RZTxFKUnRZeT5gVmKwDoCA
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NSzeePe.png" group-title="FM REDIO", Redio Today
 http://stream-144.zeno.fm/8wv4d8g4344tv?zs=OM6q0RfuRDi1X6Tty62qhA
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oWpQCYD.png" group-title="FM REDIO", Redio Ekattor
