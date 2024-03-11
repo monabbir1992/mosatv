@@ -51,7 +51,8 @@ http://stream-157.zeno.fm/umq9q5uuva5tv?zs=RZTxFKUnRZeT5gVmKwDoCA
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/m2zy09Dc/images-14.jpg" group-title="FM REDIO", Redio Today
 http://stream-144.zeno.fm/8wv4d8g4344tv?zs=OM6q0RfuRDi1X6Tty62qhA
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oWpQCYD.png" group-title="FM REDIO", Redio Ekattor
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DfXVnBxF/images-15.jpg" group-title="FM REDIO", Redio Ekattor রেডিও ৭১
 http://192.144.82.200:9302/;stream/1;
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sUtIV0g.png" group-title="FM REDIO", Redio Sarabela
 http://103.4.145.50:8000/stream/1/
