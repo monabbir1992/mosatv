@@ -33,7 +33,7 @@ https://bongodrive.pw/bioscope.m3u8?id=colors-bangla
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/3JYgShSX/images-10.jpg" group-title="FM REDIO", Quran
 https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/RVB6RzCc/image.jp" group-title="FM REDIO", Bangladesh Betar
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/htpLLd5w/image.jpg" group-title="FM REDIO", Bangladesh Betar
 http://as3.digitalsynapsebd.com:8263/;stream.mp3
 #EXTINF: -1 tvg-logo="https://i.imgur.com/16uHVGr.png" group-title="FM REDIO", Redio Shadin
 http://stream-157.zeno.fm/umq9q5uuva5tv?zs=RZTxFKUnRZeT5gVmKwDoCA
