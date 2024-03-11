@@ -74,7 +74,7 @@ https://sayajifm.radioca.st/stream/;?1707488287650
 https://stream.bongonet.net/proxy/radiobongonet?mp=/stream/1/
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/T3sDmNdw/images-7.jpg" group-title="এফ এম রেডিও", Radio Retro Bollywood
 https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
-#EXTINF: -1 tvg-logo="https://i.imgur.com/UScHwWO.jpg" group-title="এফ এম রেডিও", Radio Bolly FM
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Kz2wGNgq/images-2.png" group-title="এফ এম রেডিও", Radio Bolly FM
 https://stream-160.zeno.fm/zu59ykebs2zuv?zs=TJdihQC0Q8CabTsCGBWA4A
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MihH9i8.png" group-title="এফ এম রেডিও", Radio Mahananda
 https://radiomahanandafm.radioca.st/rm.mp3
