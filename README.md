@@ -54,10 +54,13 @@ http://stream-144.zeno.fm/8wv4d8g4344tv?zs=OM6q0RfuRDi1X6Tty62qhA
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DfXVnBxF/images-15.jpg" group-title="FM REDIO", Redio Ekattor রেডিও ৭১
 http://192.144.82.200:9302/;stream/1;
-#EXTINF: -1 tvg-logo="https://i.imgur.com/sUtIV0g.png" group-title="FM REDIO", Redio Sarabela
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/s2W0qFbb/images-2.png" group-title="FM REDIO", Redio Sarabela রেডিও সারাবেলা
 http://103.4.145.50:8000/stream/1/
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gi3zr40.png" group-title="FM REDIO", Redio Padma
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gi3zr40.png" group-title="FM REDIO", Redio Padma রেডিও পদ্না
 http://cassini.shoutca.st:9109/radiopadma.mp3
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rmd6v7M.png" group-title="FM REDIO", Sayaji FM
 https://sayajifm.radioca.st/stream/;?1707488287650
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ca6gh7i.png" group-title="FM REDIO", Radio BongOnet
