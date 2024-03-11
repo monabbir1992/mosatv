@@ -49,7 +49,7 @@ http://as3.digitalsynapsebd.com:8263/;stream.mp3
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/T3w9H0gG/image.png" group-title="FM REDIO", Redio Shadin
 http://stream-157.zeno.fm/umq9q5uuva5tv?zs=RZTxFKUnRZeT5gVmKwDoCA
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/SJ499Jcq" group-title="FM REDIO", Redio Today
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/m2zy09Dc/images-14.jpg" group-title="FM REDIO", Redio Today
 http://stream-144.zeno.fm/8wv4d8g4344tv?zs=OM6q0RfuRDi1X6Tty62qhA
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oWpQCYD.png" group-title="FM REDIO", Redio Ekattor
 http://192.144.82.200:9302/;stream/1;
