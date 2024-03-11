@@ -72,7 +72,7 @@ http://cassini.shoutca.st:9109/radiopadma.mp3
 https://sayajifm.radioca.st/stream/;?1707488287650
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/xdywwMNv/unnamed.png" group-title="এফ এম রেডিও", Radio BongOnet
 https://stream.bongonet.net/proxy/radiobongonet?mp=/stream/1/
-#EXTINF: -1 tvg-logo="https://i.imgur.com/d09PXR5.jpg" group-title="এফ এম রেডিও", Radio Retro Bollywood
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/T3sDmNdw/images-7.jpg" group-title="এফ এম রেডিও", Radio Retro Bollywood
 https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
 #EXTINF: -1 tvg-logo="https://i.imgur.com/UScHwWO.jpg" group-title="এফ এম রেডিও", Radio Bolly FM
 https://stream-160.zeno.fm/zu59ykebs2zuv?zs=TJdihQC0Q8CabTsCGBWA4A
