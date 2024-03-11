@@ -25,6 +25,10 @@ https://ythls-v2.onrender.com/channel/UCtqvtAVmad5zywaziN6CbfA.M3u8
 
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/HsZ5mfCQ/images-1.png" group-title="Youtube Live", Dbc News 
 https://ythls-v2.onrender.com/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+হিন্দি মুভি চ্যানেল
+
+#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/SjF7ygL5/images-11.jpg" group-title="Movie Channel", Zee Tv cinema
+http://103.151.60.214:7444/1611/video.m3u8
 
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/5yLrVdMH/images-8.jpg" group-title="Local Host", ColorS Bangla
 https://bongodrive.pw/bioscope.m3u8?id=colors-bangla
