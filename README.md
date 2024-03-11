@@ -1,7 +1,7 @@
 #EXTM3U 
 ইউটিউব লাইভ টিভি
 
-#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/MTXkqg7z/images-12.jpg" group-title="Intro", Mohanogar
+#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/MTXkqg7z/images-12.jpg" group-title="Intro", Monabbir
 https://streamable.com/hu06k2
 
 #EXTINF: -1 tvg-name="Ararat (2024)  S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTFhzrmY2mxc3F9PEtwJy2w8rKs.jpg" group-title="BANGALI Movie", Ararat (2024)  S01 E01
