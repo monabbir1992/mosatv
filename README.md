@@ -84,4 +84,4 @@ https://stream-152.zeno.fm/cwa3vg8s8druv?zs=Gn24iHyWT3Omxri1VtA3oQ
 
 
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/B64j28yh/images-16.jpg" group-title="Intro", স্টার জলসা
-https://s.id/23TAk
+https://s.id/23TAS
