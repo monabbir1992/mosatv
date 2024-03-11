@@ -68,7 +68,7 @@ http://103.4.145.50:8000/stream/1/
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/02Y8D3t5/images-3.png" group-title="এফ এম রেডিও", Redio Padma রেডিও পদ্না
 http://cassini.shoutca.st:9109/radiopadma.mp3
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rmd6v7M.png" group-title="এফ এম রেডিও", Sayaji FM
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/15txV8nB/images-1.png" group-title="এফ এম রেডিও", Sayaji FM
 https://sayajifm.radioca.st/stream/;?1707488287650
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ca6gh7i.png" group-title="এফ এম রেডিও", Radio BongOnet
 https://stream.bongonet.net/proxy/radiobongonet?mp=/stream/1/
