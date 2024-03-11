@@ -23,11 +23,11 @@ https://ythls-v2.onrender.com/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/d0TdVqLV/images-9.jpg" group-title="Youtube Live", Ekattor Tv
 https://ythls-v2.onrender.com/channel/UCtqvtAVmad5zywaziN6CbfA.M3u8
 
-#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/5yLrVdMH/images-8.jpg" group-title="Local Host", ColorS Bangla
-https://bongodrive.pw/bioscope.m3u8?id=colors-bangla
-
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/HsZ5mfCQ/images-1.png" group-title="Youtube Live", Dbc News 
 https://ythls-v2.onrender.com/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+
+#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/5yLrVdMH/images-8.jpg" group-title="Local Host", ColorS Bangla
+https://bongodrive.pw/bioscope.m3u8?id=colors-bangla
 
 রেডিও শুরু এখান থেকে
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AfY8NAf.jpg" group-title="FM REDIO", Quran
