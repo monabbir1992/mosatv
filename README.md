@@ -48,43 +48,45 @@ http://103.151.60.214:7444/1611/video.m3u8
 https://bongodrive.pw/bioscope.m3u8?id=colors-bangla
 
 রেডিও শুরু এখান থেকে
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/3JYgShSX/images-10.jpg" group-title="FM REDIO", Quran কুরআন
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3JYgShSX/images-10.jpg" group-title="এফ এম রেডিও", Quran কুরআন
 https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/htpLLd5w/image.jpg" group-title="FM REDIO", Bangladesh Betar বাংলাদেশ বেতার
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/htpLLd5w/image.jpg" group-title="এফ এম রেডিও", Bangladesh Betar বাংলাদেশ বেতার
 http://as3.digitalsynapsebd.com:8263/;stream.mp3
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/T3w9H0gG/image.png" group-title="FM REDIO", Redio Shadin রেডিও স্বাধীন
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/T3w9H0gG/image.png" group-title="এফ এম রেডিও", Redio Shadin রেডিও স্বাধীন
 http://stream-157.zeno.fm/umq9q5uuva5tv?zs=RZTxFKUnRZeT5gVmKwDoCA
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/m2zy09Dc/images-14.jpg" group-title="FM REDIO", Redio Today রেডিও টুডে
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/m2zy09Dc/images-14.jpg" group-title="এফ এম রেডিও", Redio Today রেডিও টুডে
 http://stream-144.zeno.fm/8wv4d8g4344tv?zs=OM6q0RfuRDi1X6Tty62qhA
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/DfXVnBxF/images-15.jpg" group-title="FM REDIO", Redio Ekattor রেডিও ৭১
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DfXVnBxF/images-15.jpg" group-title="এফ এম রেডিও", Redio Ekattor রেডিও ৭১
 http://192.144.82.200:9302/;stream/1;
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/s2W0qFbb/images-2.png" group-title="FM REDIO", Redio Sarabela রেডিও সারাবেলা
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/s2W0qFbb/images-2.png" group-title="এফ এম রেডিও", Redio Sarabela রেডিও সারাবেলা
 http://103.4.145.50:8000/stream/1/
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/02Y8D3t5/images-3.png" group-title="FM REDIO", Redio Padma রেডিও পদ্না
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/02Y8D3t5/images-3.png" group-title="এফ এম রেডিও", Redio Padma রেডিও পদ্না
 http://cassini.shoutca.st:9109/radiopadma.mp3
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rmd6v7M.png" group-title="FM REDIO", Sayaji FM
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rmd6v7M.png" group-title="এফ এম রেডিও", Sayaji FM
 https://sayajifm.radioca.st/stream/;?1707488287650
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Ca6gh7i.png" group-title="FM REDIO", Radio BongOnet
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Ca6gh7i.png" group-title="এফ এম রেডিও", Radio BongOnet
 https://stream.bongonet.net/proxy/radiobongonet?mp=/stream/1/
-#EXTINF: -1 tvg-logo="https://i.imgur.com/d09PXR5.jpg" group-title="FM REDIO", Radio Retro Bollywood
+#EXTINF: -1 tvg-logo="https://i.imgur.com/d09PXR5.jpg" group-title="এফ এম রেডিও", Radio Retro Bollywood
 https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
-#EXTINF: -1 tvg-logo="https://i.imgur.com/UScHwWO.jpg" group-title="FM REDIO", Radio Bolly FM
+#EXTINF: -1 tvg-logo="https://i.imgur.com/UScHwWO.jpg" group-title="এফ এম রেডিও", Radio Bolly FM
 https://stream-160.zeno.fm/zu59ykebs2zuv?zs=TJdihQC0Q8CabTsCGBWA4A
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MihH9i8.png" group-title="FM REDIO", Radio Mahananda
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MihH9i8.png" group-title="এফ এম রেডিও", Radio Mahananda
 https://radiomahanandafm.radioca.st/rm.mp3
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/KYsbMdQp/BBC-Bangla-logo-svg.png" group-title="FM REDIO", BBC BANGLA/UK/ENGLISH
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/KYsbMdQp/BBC-Bangla-logo-svg.png" group-title="এফ এম রেডিও", BBC BANGLA/UK/ENGLISH
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FHjHd74z/download-11.png" group-title="FM REDIO", DHAKA FM
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FHjHd74z/download-11.png" group-title="এফ এম রেডিও", DHAKA FM
 https://stream-162.zeno.fm/ay4pqkk604zuv?zs=uxE5poqeQiiHORwP1eBreQ
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/ydHQDxdH/images-1-5.png" group-title="FM REDIO", radio foorti
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/ydHQDxdH/images-1-5.png" group-title="এফ এম রেডিও", radio foorti
 https://stream-152.zeno.fm/cwa3vg8s8druv?zs=Gn24iHyWT3Omxri1VtA3oQ
+
+এখানে শেষ
 
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/B64j28yh/images-16.jpg" group-title="Intro", স্টার জলসা
 https://s.id/23TAS
