@@ -4,7 +4,9 @@
 http://tvcdn.hoichoi24.com:8083/1101/index.m3u8?token=5c4795a9d0c31fd6bfece952f744e21201fff4d9-f50279d52152073ee2e36a929ee2feb1-1710261762-1710258162
 
 ডিসকভেরী বাংলা
-
-
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/Y0JH8x3c/images-3.jpg" group-title="আমার চ্যানেল", ডিসকভেরী বাংলা
 https://qecqpg.sn.files.1drv.com/y4mDfke1-5ztIAqgCTrlLsqJeFwrs4JmhhI1ygA3-MMSN3GJz_8CWPjVCU9xcNnkeVY-Fm_v95ZTsYD761UYzXIMH951syojc-Yoie4UhUS5C0ahDgoET-d6_rLWJbqrjZ9geQB6pPmUD_pzSJ3pfCF1dd0za7Lt1GGuTJaJ-JWTPptq2wfctqU25u9CSbfMXOALcSgPqk9y6TkW77VdGcqQw
+
+জলসা মুভি
+#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/kGP7NmvN/unnamed.jpg" group-title="আমার চ্যানেল", জলসা মুভি
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
