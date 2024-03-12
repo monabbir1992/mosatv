@@ -19,3 +19,7 @@ https://edge4.bioscopelive.com/hls/anonymous/GSX5ix9syxQLdsNVxOQycw/1710266865/l
 
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/MKJ4QwQK/Star-Jalsha-logo-2023.png" group-title="আমার চ্যানেল", স্টার জলসা
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+
+
+#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/2y3rPDCZ/images-5.jpg" group-title="আমার চ্যানেল", স্টার জলসা এইচ ডি
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
