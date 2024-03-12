@@ -7,3 +7,7 @@ https://mhdtvmax.net/delta/discovery/api/Discovery_Bangla.m3u8
 
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/kGP7NmvN/unnamed.jpg" group-title="আমার চ্যানেল", জলসা মুভি
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
+
+
+#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/4NvGpqMZ/Sony-Aath-new.png" group-title="আমার চ্যানেল", সনি আট
+http://195.26.87.217/live.ts?channelId=44150&uid=7435&deviceMac=00:1A:79:51:4B:3A
