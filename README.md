@@ -11,3 +11,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/4NvGpqMZ/Sony-Aath-new.png" group-title="আমার চ্যানেল", সনি আট
 http://195.26.87.217/live.ts?channelId=44150&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+
+#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/xdCcRKMg/images-4.jpg" group-title="আমার চ্যানেল", কালারস্ বাংলা
+https://edge4.bioscopelive.com/hls/anonymous/GSX5ix9syxQLdsNVxOQycw/1710266865/live3-colors-bangla.m3u8
