@@ -27,3 +27,6 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/7PSJxvry/images-6.jpg" group-title="আমার চ্যানেল", জি বাংলা
 http://tv.cloudcdn.me/live.ts?channelId=120&uid=5060&deviceMac=00:1A:79:73:9C:A1
+
+#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/nzHNSj7L/images-2.png" group-title="আমার চ্যানেল", নিক জুনিয়র
+https://edge4.bioscopelive.com/hls/anonymous/CkBrYhek6HA0-vatv29XfA/1710268396/live3-nick.m3u8
