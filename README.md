@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/MpNkqXSt/images-2.jpg" group-title="আমার চ্যানেল", টি স্পোর্টস
-http://tvcdn.hoichoi24.com:8083/1101/index.m3u8?token=a4dfc7c2299ea7eae484858d428cf8a9661f3ab3-2d5cc62ded116a02e5c48cff86b9c6bb-1710265212-1710261612
+http://tvcdn.hoichoi24.com:8083/1101/index.m3u8?token=c2da6eccc6aaa6a37b1c58113bfba55aa870615f-7e4324d905228ab1d1a9e936074b6de5-1710312174-1710308574
 
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/Y0JH8x3c/images-3.jpg" group-title="আমার চ্যানেল", ডিসকভেরী বাংলা
 https://mhdtvmax.net/delta/discovery/api/Discovery_Bangla.m3u8
