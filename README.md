@@ -22,6 +22,8 @@ http://abcnew.site:8880/live/3ca7043n04/asfde32e2/57882.ts
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 
 
+#EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/nzHNSj7L/images-2.png" group-title="মুনাব্বির হোসেন", রিংটোন
+https://raw.githubusercontent.com/monabbir1992/mosatv/main/Wallpaper_Universe%20-%202024%20couple%20new%20video%20WhatsApp%20status%20Instagram%20real%20best%20video.webm
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/2y3rPDCZ/images-5.jpg" group-title="আমার চ্যানেল", স্টার জলসা এইচ ডি
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 
