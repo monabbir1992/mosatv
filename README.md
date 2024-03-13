@@ -39,3 +39,18 @@ https://edge4.bioscopelive.com/hls/anonymous/CkBrYhek6HA0-vatv29XfA/1710268396/l
 http://xtv.ooo:8080/live/T4S00515/820172/112972.ts
 http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=157158&extension=ts
 http://xtv.ooo:8080/live/T4S00515/820172/112973.ts
+
+#EXTINF: -1 tvg-id="1" tvg-logo="https://raw.githubusercontent.com/monabbir1992/mosatv/main/Gold%20Mine.jpeg" group-title="মুভি", গোল্ড মাইন
+http://116229191157.rsc.cdn77.cc/HN_Goldmines/index.m3u8?token=8d333c21a64694ad89ae81e23c5d31d2
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES" tvg-logo="https://drive.google.com/uc?export=download&id=1gJ1M08XNb7XBSwx2Emk93aDW7ayDKo8l" group-title="মুভি", গোল্ড মাইন মুনাব্বির
+http://xtv.ooo:8080/live/T4S00515/820172/112972.ts
+http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=157158&extension=ts
+http://xtv.ooo:8080/live/T4S00515/820172/112973.ts
+
