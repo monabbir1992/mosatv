@@ -26,7 +26,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 https://raw.githubusercontent.com/monabbir1992/mosatv/main/Wallpaper_Universe%20-%202024%20couple%20new%20video%20WhatsApp%20status%20Instagram%20real%20best%20video.webm
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/2y3rPDCZ/images-5.jpg" group-title="আমার চ্যানেল", স্টার জলসা এইচ ডি
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
-
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/7PSJxvry/images-6.jpg" group-title="আমার চ্যানেল", জি বাংলা
 http://tv.cloudcdn.me/live.ts?channelId=120&uid=5060&deviceMac=00:1A:79:73:9C:A1
