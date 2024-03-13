@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF: -1 tvg-id="1" tvg-logo="https://raw.githubusercontent.com/monabbir1992/mosatv/main/Wallpaper_Universe%20-%202024%20couple%20new%20video%20WhatsApp%20status%20Instagram%20real%20best%20video.webm" group-title="আমার চ্যানেল", টি স্পোর্টস
-http://tvcdn.hoichoi24.com:8083/1101/index.m3u8?token=c2da6eccc6aaa6a37b1c58113bfba55aa870615f-7e4324d905228ab1d1a9e936074b6de5-1710312174-1710308574
+
+#EXTINF: -1 tvg-id="1" tvg-logo="https://drive.google.com/file/d/1P05AZs6b7oqaQYsILx7Y6EHTn9F4Ppuf/view?usp=drivesdk" group-title="খেলা", টি স্পোর্টস
+http://tvcdn.hoichoi24.com:8083/1101/index.m3u8?token=d17cd5f7af5e05b9624d43d710abdf38041ff89b-a065e51133d762e7a8cf5f62e353a01c-1710341400-1710337800
+
 
 #EXTINF: -1 tvg-id="1" tvg-logo="https://i.postimg.cc/Y0JH8x3c/images-3.jpg" group-title="আমার চ্যানেল", ডিসকভেরী বাংলা
 https://mhdtvmax.net/delta/discovery/api/Discovery_Bangla.m3u8
